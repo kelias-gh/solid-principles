@@ -1,0 +1,12 @@
+pyproject.toml
+src/solid_report/__init__.py
+src/solid_report.egg-info/PKG-INFO
+src/solid_report.egg-info/SOURCES.txt
+src/solid_report.egg-info/dependency_links.txt
+src/solid_report.egg-info/requires.txt
+src/solid_report.egg-info/top_level.txt
+src/solid_report/formatters/__init__.py
+src/solid_report/interfaces/__init__.py
+src/solid_report/models/__init__.py
+src/solid_report/printers/__init__.py
+src/solid_report/storage/__init__.py
